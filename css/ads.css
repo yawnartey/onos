@@ -1,0 +1,89 @@
+#uniconnect{
+    font-size: 35px;
+    font-weight: bolder; 
+}
+#firstNavContent{
+    font-variant: small-caps;
+    font-size: 20px; 
+}
+#navbarDropdownMenuLink{
+    font-variant:small-caps;
+    font-size: 20px;    
+    padding-left: 25px; 
+}
+#navHomeText{
+    padding-left: 90px; 
+}
+#articlesNavText{
+    padding-left: 25px; 
+    padding-right: 20px; 
+}
+#eventsNavText{
+    padding-left: 20px;
+    padding-right: 20px; 
+}
+#dealsNavText{
+    padding-left: 20px; 
+    padding-right: 20px; 
+}
+#solutionsNavText{
+    padding-left: 20px; 
+    padding-right: 20px; 
+}
+#searchForm{
+      padding-left: 10px;
+}
+
+ main {
+            padding-top: 3rem;
+            padding-bottom: 2rem;
+        }
+
+        .widget-wrapper {
+            padding-bottom: 2rem;
+            border-bottom: 1px solid #e0e0e0;
+            margin-bottom: 2rem;
+        }
+
+        .extra-margins {
+            margin-top: 1rem;
+            margin-bottom: 2.5rem;
+        }
+
+        .divider-new {
+            margin-top: 0;
+        }
+
+        .navbar {
+            background-color: #414a5c;
+        }
+
+        footer.page-footer {
+            background-color: #414a5c;
+            margin-top: 2rem;
+        }
+
+        .list-group-item.active {
+            background-color: #1976d2;
+            border-color: #afb3c0;
+        }
+
+        .list-group-item:not(.active) {
+            color: #222;
+        }
+
+        .list-group-item:not(.active):hover {
+            color: #666;
+        }
+
+        .card {
+            font-weight: 300;
+        }
+
+        .navbar .btn-group .dropdown-menu a:hover {
+            color: #000 !important;
+        }
+
+        .navbar .btn-group .dropdown-menu a:active {
+            color: #fff !important;
+        }
